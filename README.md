@@ -34,5 +34,4 @@ The Question Service is a microservice application designed to manage questions 
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd question-service
+   git clone https://github.com/Nitinchauhan09/question-service.git
